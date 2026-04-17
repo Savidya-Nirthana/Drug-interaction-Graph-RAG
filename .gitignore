@@ -1,1 +1,5 @@
 /neo4j-cred
+
+.env
+
+*.env
